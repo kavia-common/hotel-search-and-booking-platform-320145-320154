@@ -1,0 +1,4 @@
+{
+    "command": "cd db_visualizer && npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/hotel-search-and-booking-platform-320145-320154/hotel_database"
+}
